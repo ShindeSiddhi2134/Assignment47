@@ -1,0 +1,4 @@
+Explain what a coefficient represents in regression.
+
+A coefficient represents how much the output variable changes when
+the input variable increases by one unit.

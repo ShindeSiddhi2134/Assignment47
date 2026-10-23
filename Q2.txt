@@ -1,0 +1,6 @@
+Consider the regression model: Y = 8X + 15
+
+Given equation: Y = 8X + 15
+
+Coefficient: 8
+Intercept: 15
